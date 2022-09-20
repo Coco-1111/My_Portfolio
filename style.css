@@ -1,4 +1,4 @@
-.container {
+.nav {
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
     color: darkgrey;
@@ -13,5 +13,4 @@ section {
     display: flex;
     align-items: center;
 
-}
 }
